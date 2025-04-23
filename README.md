@@ -1,6 +1,6 @@
-# Reddish - A Reddit Clone - MERN
+# SocialNest - A social media Clone - MERN
 
-[Reddit](https://www.reddit.com) clone (a social media site) made w/ MERN stack & Redux.
+[SocialNest](https://www.social media.com) clone (a social media site) made w/ MERN stack & Redux.
 
 ## Demo
 
