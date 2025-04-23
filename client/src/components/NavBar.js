@@ -50,17 +50,17 @@ const NavBar = () => {
                   startIcon={<RedditIcon fontSize="large" />}
                   size="large"
                 >
-                  reddish
+                 SocialNest
                 </Button>
                 <Typography variant="caption" color="secondary">
                   Made with <FavoriteIcon style={{ fontSize: 12 }} /> by
                   <Link
-                    href={'https://github.com/amand33p'}
+                    href={'https://github.com/Priyakumari00'}
                     color="inherit"
                     target="_blank"
                     rel="noopener"
                   >
-                    <strong>{` amand33p`}</strong>
+                    <strong>{` Priya Kumari`}</strong>
                   </Link>
                 </Typography>
               </div>

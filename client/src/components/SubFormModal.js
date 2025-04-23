@@ -41,13 +41,13 @@ const SubFormModal = ({ type, handleCloseMenu }) => {
           size="large"
           startIcon={<AddCircleIcon />}
         >
-          Create New Subreddish
+          Create New SubSocialNest 
         </Button>
       ) : (
         <MenuItem onClick={handleOpenMenu}>
           <ListItemIcon>
             <AddCircleIcon style={{ marginRight: 7 }} />
-            Create Subreddish
+            Create SubSocialNest 
           </ListItemIcon>
         </MenuItem>
       )}
@@ -58,7 +58,7 @@ const SubFormModal = ({ type, handleCloseMenu }) => {
         classes={{ paper: classes.dialogWrapper }}
         fullWidth
       >
-        <DialogTitle onClose={handleClose}>Create a new subreddish</DialogTitle>
+        <DialogTitle onClose={handleClose}>Create a new SubSocialNest </DialogTitle>
         <DialogContent>
           <SubForm />
         </DialogContent>
