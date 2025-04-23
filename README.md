@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://reddish.netlify.app)
+[Deployed on vercel (front-end) & Heroku (back-end)](social-nest-hxyj-aslfs9ts4-priyakumari00s-projects.vercel.app)
 
 ## Built using
 
@@ -57,13 +57,6 @@
 ![Desktop-2](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-2.png)
 ![Desktop-3](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-3.png)
 
-#### Mobile
-
-![Mobile-home](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-home.png)
-![Mobile-2](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-2.png)
-![Mobile-3](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-3.png)
-![Mobile-4](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-4.png)
-![Mobile-5](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-5.png)
 
 ## Usage
 
