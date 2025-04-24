@@ -5,11 +5,12 @@ const customTheme = (darkMode) =>
     palette: {
       type: darkMode ? 'dark' : 'light',
       primary: {
-        main: darkMode ? '#ffb28a' : '#FF5700',
+        main: darkMode ? '#a8d0e6' : '#008080', // misty blue / deep teal
       },
       secondary: {
-        main: darkMode ? '#f3b9bb' : '#941a1c',
+        main: darkMode ? '#f8e9a1' : '#006666', // soft yellow / rich teal-green
       },
+      
     },
     overrides: {
       MuiTypography: {
