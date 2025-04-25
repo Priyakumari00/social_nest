@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Deployed on vercel (front-end) & Render (back-end)](https://social-nest-mtwq-jt39g2tjn-priyakumari00s-projects.vercel.app)
+[Deployed on vercel (front-end) & Render (back-end) [Live Link]](https://social-nest-mtwq-jt39g2tjn-priyakumari00s-projects.vercel.app)
 
 ## Built using
 
