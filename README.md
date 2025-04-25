@@ -61,12 +61,6 @@
 ![Home](screenshots/img5.png)
 
 
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 3af1d810e0ca5bbcbdef5f98e9a8c4281cf3702c
 ## Usage
 
 Notes:
@@ -112,8 +106,4 @@ npm run dev
 ```
 This project is inspired by the open-source Reddit Clone by amand33p.
 
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 3af1d810e0ca5bbcbdef5f98e9a8c4281cf3702c
