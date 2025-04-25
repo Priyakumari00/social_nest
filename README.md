@@ -53,9 +53,13 @@
 
 #### Desktop/Tablet
 
-![Desktop-home](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-home.png)
-![Desktop-2](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-2.png)
-![Desktop-3](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-3.png)
+![Home](screenshots/img1.png)
+![Login](screenshots/img2.png)
+![Home](screenshots/img3.png)
+![Home](screenshots/img4.png)
+![Home](screenshots/img5.png)
+
+
 
 <<<<<<< HEAD
 
