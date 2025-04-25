@@ -53,8 +53,9 @@
 
 #### Desktop/Tablet
 
+![Home](screenshots/img.png)
 ![Home](screenshots/img1.png)
-![Login](screenshots/img2.png)
+![Home](screenshots/img2.png)
 ![Home](screenshots/img3.png)
 ![Home](screenshots/img4.png)
 ![Home](screenshots/img5.png)
