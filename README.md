@@ -101,9 +101,3 @@ cd server
 npm install
 npm run dev
 ```
-#### Credits:
-
-```
-This project is inspired by the open-source Reddit Clone by amand33p.
-
-```
